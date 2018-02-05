@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>AshleyEstrin.com</title>
+    <title>AshleyEstrin.com | Just Livin' My Best Life</title>
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
   </head>
   <body style="background-color: #c7ced1;">

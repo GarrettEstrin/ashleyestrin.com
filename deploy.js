@@ -1,6 +1,7 @@
 var FtpDeploy = require('ftp-deploy-log'),
 ftpDeploy = new FtpDeploy(),
 fs = require('fs'),
+dotenv = require('dotenv').config(),
 excluded = fs.readFileSync('.gitignore', 'utf8');
 excluded = excluded.split(/[\r\n]+/);
  
